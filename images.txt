@@ -4,5 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/library/node:18.12.1
-node:18.12.1
+node:16.19.0
