@@ -9,3 +9,4 @@
 #openjdk:8-jre-alpine
 #grafana/loki:3.3.0
 node:18.18.2
+dexidp/dex:v2.41.1
