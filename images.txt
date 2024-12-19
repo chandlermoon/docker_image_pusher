@@ -13,3 +13,4 @@ dexidp/dex:v2.41.1
 redis:7.0.15-alpine
 ubuntu:20.04
 centos:8
+centos:7
