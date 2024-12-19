@@ -11,3 +11,4 @@
 node:18.18.2
 dexidp/dex:v2.41.1
 redis:7.0.15-alpine
+ubuntu:20.04
