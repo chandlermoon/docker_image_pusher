@@ -14,4 +14,5 @@
 #ubuntu:20.04
 #centos:8
 #centos:7
-alpine/jmeter:5.5
+#alpine/jmeter:5.5
+node:20.18.1-alpine
