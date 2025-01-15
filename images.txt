@@ -16,4 +16,5 @@
 #centos:7
 #alpine/jmeter:5.5
 #node:20.18.1-alpine
-node:20.18.1
+#node:20.18.1
+nginx:1.25.5
