@@ -18,4 +18,5 @@
 #node:20.18.1-alpine
 #node:20.18.1
 #nginx:1.25.5
-jenkins/jenkins:lts
+#jenkins/jenkins:lts
+tektoncd/pipeline/controller-10a3e32792f33651396d02b6855a6e36:v0.68.0@sha256:b09f78ea0b73e944c1a002fba65fed7853a84bd237fe0cff610b65654e5bb7b9
