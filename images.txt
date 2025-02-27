@@ -19,4 +19,5 @@
 #node:20.18.1
 #nginx:1.25.5
 #jenkins/jenkins:lts
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.41.2@sha256:7adeaacb5262fbaa85bf769d21729dbb6880b202789573b6e7da823fc356fa16
+#gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.41.2@sha256:7adeaacb5262fbaa85bf769d21729dbb6880b202789573b6e7da823fc356fa16
+gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.26.0@sha256:d3963622f12448e566e3d4afb27f9b47e71d8fd8b38bab7edbbacbb9c75e331e
